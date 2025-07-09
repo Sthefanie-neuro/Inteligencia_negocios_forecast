@@ -23,4 +23,7 @@ Este projeto utiliza **Inteligência Artificial e Visualização de Dados** para
 
 ---
 
+## Autora
 
+**Sthefanie Ferreira de Souza Dias Otaviano**  
+[LinkedIn](https://www.linkedin.com/in/sthefanie-ferreira-de-s-d-otaviano-976a59206/)
