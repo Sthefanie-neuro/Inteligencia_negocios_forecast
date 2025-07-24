@@ -1,6 +1,6 @@
 # Inteligência de Negócios com IA
 
-Este projeto utiliza **Modelagem Preditiva" para previsão de demanda e criação de painéis interativos com **Python**. Ele foi desenvolvido como parte do meu portfólio em Ciência de Dados.
+Este projeto utiliza **Modelagem Preditiva** para previsão de demanda e criação de painéis interativos com **Python**. Ele foi desenvolvido como parte do meu portfólio em Ciência de Dados.
 
 ---
 
